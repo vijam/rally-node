@@ -1,6 +1,6 @@
 {
-  "name": "rally",
-  "version": "2.1.3",
+  "name": "rally-nodejs",
+  "version": "2.1.4",
   "description": "Rally REST Toolkit for Node.js",
   "contributors": [
     {
