@@ -14,6 +14,10 @@
     {
       "name": "Willy Douglas",
       "email": "william.douglas@ca.com"
+    },
+    {
+      "name": "Vijay",
+      "email": "vijam@outlook.com"
     }
   ],
   "main": "dist/index.js",
